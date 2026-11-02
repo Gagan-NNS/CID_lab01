@@ -1,0 +1,2 @@
+Git Experiment 1
+Learning basic Git operations using VS Code.
